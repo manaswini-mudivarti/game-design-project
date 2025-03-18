@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 3e669251481be02489ae036677d6c767
+  - enabled: 1
+    path: Assets/Scenes/Maze1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Maze2OX.unity
+    guid: 8b3cbfd15cc76974baade7114f3c194c
+  - enabled: 0
+    path: Assets/Scenes/Maze3OX.unity
+    guid: bad4da9eeaf9a4842b720940988aa620
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a7e97dc2740533d45a33d8ab993cf054
+  - enabled: 0
+    path: Assets/Scenes/Maze2VX.unity
+    guid: c6d024d834ddab24883866ecd480f808
+  - enabled: 0
+    path: Assets/Scenes/Maze3VX.unity
+    guid: 7947664fbd2337b4592e015c72328121
+  - enabled: 1
+    path: Assets/Scenes/Maze2.unity
+    guid: d928d15f11a180c4ab981a99855664be
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}

@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+	<title>New Project</title>
+	<defs>
+		<image  width="400" height="400" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAqSURBVHic7cExAQAAAMKg9U/tbwagAAAAAAAAAAAAAAAAAAAAAAAAAIA3T7AAATkWl3gAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ffffff;stroke-width: 20 } 
+		.s1 { fill: #ff0000 } 
+		.s2 { fill: none;stroke: #ff0000;stroke-width: 10 } 
+		.s3 { fill: #000000 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" class="s0" d="m199.5 334c-74.4 0-134.5-60.1-134.5-134.5 0-74.4 60.1-134.5 134.5-134.5 74.4 0 134.5 60.1 134.5 134.5 0 74.4-60.1 134.5-134.5 134.5z"/>
+	<path id="N" class="s1" aria-label="N"  d="m215.3 54.9v39.1h-8.1l-15.7-25.7v25.7h-8v-39.1h8l15.8 25.8v-25.8z"/>
+	<path id="Shape 2" class="s2" d="m183.2 199.8l16.8-73.6 16.8 73.6z"/>
+	<path id="S" class="s3" aria-label="S"  d="m206.8 331.7q0-2.2-1.6-3.4-1.7-1.3-5.8-2.6-4.2-1.4-6.7-2.7-6.6-3.6-6.6-9.7 0-3.2 1.7-5.6 1.8-2.5 5.2-3.9 3.3-1.4 7.5-1.4 4.2 0 7.4 1.5 3.3 1.5 5.1 4.3 1.9 2.7 1.9 6.2h-8.1q0-2.6-1.7-4.1-1.7-1.5-4.8-1.5-2.9 0-4.5 1.2-1.7 1.3-1.7 3.3 0 1.9 1.9 3.2 2 1.3 5.7 2.4 6.9 2.1 10 5.2 3.2 3 3.2 7.6 0 5.1-3.9 8-3.8 2.8-10.3 2.8-4.5 0-8.2-1.6-3.8-1.7-5.7-4.5-1.9-2.9-1.9-6.7h8q0 6.5 7.8 6.5 2.8 0 4.5-1.2 1.6-1.2 1.6-3.3z"/>
+	<path id="W" class="s3" aria-label="W"  d="m82.5 180.9l6.4 27.8 5.3-27.8h8l-8.6 39.1h-8.1l-6.4-26.2-6.4 26.2h-8.1l-8.7-39.1h8.1l5.3 27.8 6.4-27.8z"/>
+	<path id="E" class="s3" aria-label="E"  d="m339 196.7v6.4h-15.5v10.4h18.2v6.5h-26.2v-39.1h26.1v6.5h-18.1v9.3z"/>
+</svg>
